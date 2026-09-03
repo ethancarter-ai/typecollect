@@ -32,7 +32,7 @@ typecollect . --no-color
 
 ## Project structure
 
-```
+```text
 typecollect/
   README.md
   pyproject.toml
@@ -40,6 +40,10 @@ typecollect/
   tests/
     test_typecollect.py
 ```
+
+## Repository
+
+https://github.com/ethancarter-ai/typecollect
 
 ## Tags / keywords
 
