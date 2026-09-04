@@ -10,3 +10,10 @@ build/
 .DS_Store
 AGENTS.md
 CLAUDE.md
+.coverage
+htmlcov/
+.tox/
+.ruff_cache/
+.vscode/
+.idea/
+.vercel
